@@ -1,94 +1,82 @@
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\appsettings.Development.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\appsettings.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\FurnitureStore.exe
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\FurnitureStore.deps.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\FurnitureStore.runtimeconfig.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\FurnitureStore.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\FurnitureStore.pdb
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Azure.Core.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Azure.Identity.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Humanizer.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.CodeDom.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Data.SqlClient.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Memory.Data.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Text.Encodings.Web.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Text.Json.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.csproj.AssemblyReference.cache
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.AssemblyInfoInputs.cache
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.AssemblyInfo.cs
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.csproj.CoreCompileInputs.cache
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.MvcApplicationPartsAssemblyInfo.cs
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.MvcApplicationPartsAssemblyInfo.cache
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.FurnitureStore.Microsoft.AspNetCore.StaticWebAssets.props
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FurnitureStore.props
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FurnitureStore.props
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FurnitureStore.props
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets.pack.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets.build.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\staticwebassets.development.json
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\scopedcss\bundle\FurnitureStore.styles.css
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.csproj.CopyComplete
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\refint\FurnitureStore.dll
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.pdb
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\FurnitureStore.genruntimeconfig.cache
-C:\AKILESH\Github repo\ADO case study\FurnitureStore\obj\Debug\net7.0\ref\FurnitureStore.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\appsettings.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\FurnitureStore.exe
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\FurnitureStore.deps.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\FurnitureStore.runtimeconfig.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\FurnitureStore.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\FurnitureStore.pdb
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.csproj.AssemblyReference.cache
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.AssemblyInfoInputs.cache
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.AssemblyInfo.cs
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.csproj.CoreCompileInputs.cache
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.FurnitureStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.build.FurnitureStore.props
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FurnitureStore.props
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FurnitureStore.props
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\scopedcss\bundle\FurnitureStore.styles.css
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.csproj.CopyComplete
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\refint\FurnitureStore.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.pdb
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\FurnitureStore.genruntimeconfig.cache
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\obj\Debug\net7.0\ref\FurnitureStore.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\preetham.v.uppala\OneDrive - Accenture\Desktop\FurnitureStore\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

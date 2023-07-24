@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AKILESH\\Github repo\\ADO case study\\FurnitureStore\\FurnitureStore.csproj": {}
+    "C:\\Users\\preetham.v.uppala\\OneDrive - Accenture\\Desktop\\FurnitureStore\\FurnitureStore.csproj": {}
   },
   "projects": {
-    "C:\\AKILESH\\Github repo\\ADO case study\\FurnitureStore\\FurnitureStore.csproj": {
+    "C:\\Users\\preetham.v.uppala\\OneDrive - Accenture\\Desktop\\FurnitureStore\\FurnitureStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AKILESH\\Github repo\\ADO case study\\FurnitureStore\\FurnitureStore.csproj",
+        "projectUniqueName": "C:\\Users\\preetham.v.uppala\\OneDrive - Accenture\\Desktop\\FurnitureStore\\FurnitureStore.csproj",
         "projectName": "FurnitureStore",
-        "projectPath": "C:\\AKILESH\\Github repo\\ADO case study\\FurnitureStore\\FurnitureStore.csproj",
-        "packagesPath": "C:\\Users\\akilesh.amsavel\\.nuget\\packages\\",
-        "outputPath": "C:\\AKILESH\\Github repo\\ADO case study\\FurnitureStore\\obj\\",
+        "projectPath": "C:\\Users\\preetham.v.uppala\\OneDrive - Accenture\\Desktop\\FurnitureStore\\FurnitureStore.csproj",
+        "packagesPath": "C:\\Users\\preetham.v.uppala\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\preetham.v.uppala\\OneDrive - Accenture\\Desktop\\FurnitureStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\akilesh.amsavel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\preetham.v.uppala\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -44,12 +44,14 @@
               "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[7.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[7.0.9, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
